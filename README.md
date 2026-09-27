@@ -8,14 +8,14 @@
 
 </div>
 
-Draw formations on a football pitch, move players around, and sketch out plays with arrows, passes, and zones — built for coaches and analysts who want a quick, visual way to plan and share tactics.
+Draw formations on a football playground, move players around, and sketch out plays with arrows, passes, and zones — built for coaches and analysts who want a quick, visual way to plan and share tactics.
 
 ![Tactical Board screenshot](assets/Screenshot.png)
 
 ## Features
 
 - Ready-made formations (4-3-3, 4-2-3-1, 4-4-2, 3-5-2, 4-1-4-1, 5-3-2) for one or two teams
-- Drag and drop players anywhere on the pitch
+- Drag and drop players anywhere on the playground
 - Edit each player's number and name/role
 - Drawing tools: pass, run, dribble, zone, and eraser
 - A notes box for writing down tactics and key points
